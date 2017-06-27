@@ -1,6 +1,6 @@
-Test text here
+#Notes on Kids Write Raspberry Pis
 
-###Turning the pi into a hotspot###
+###Turning the pi into a hotspot
 [Link to script](https://github.com/harryallerston/RPI-Wireless-Hotspot)
 TODO: Make a modified version of this script that creates for KidsWrite network defaults 
 
@@ -16,7 +16,7 @@ For Step 5 the tutorial made some pathing mistakes in his cron command. I've cor
 @reboot xvfb-run calibredb add /home/pi/calibre-library/toadd/ -r --with-library /home/pi/calibre-library && rm /home/pi/calibre-library/toadd/*
 '''
 
-###Backups###
+###Backups
 [How to backup and restore a pi from an image](https://beebom.com/how-clone-raspberry-pi-sd-card-windows-linux-macos/)
 Nick's Note: For restoring from a backup I found more success with [Etcher](https://etcher.io/) than the built in dd tool 
 
