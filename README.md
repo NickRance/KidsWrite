@@ -8,10 +8,12 @@ Nick's Note: The version in this repository uses absolute pathing (untested) to 
 
 ### Turning the pi into a hotspot
 [Link to script](https://github.com/harryallerston/RPI-Wireless-Hotspot)
+
 TODO: Make a modified version of this script that creates for KidsWrite network defaults 
 
 ### Configuring Calibre Server
 [General Tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-calibre-ebook-server-on-ubuntu-14-04)
+
 [Making Server start on boot](http://thanosk.net/content/running-calibre-server-service-under-systemd) 
 
 
