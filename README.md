@@ -1,5 +1,6 @@
 # Notes on Kids Write Raspberry Pis
 
+[Link to full backup image](https://drive.google.com/open?id=0BxYBcpvxFaf5c3pMMk5JUk5CaUk)
 Files: 
 1. pishrink.sh - Used to shrink pi backup files
 2. emptyLibrary.sh - Used to delete the current calibre library
